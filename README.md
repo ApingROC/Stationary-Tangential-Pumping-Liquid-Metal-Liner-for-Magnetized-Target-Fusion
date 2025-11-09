@@ -10,7 +10,7 @@ Conceptual White Paper: Stationary Tangential-Pumping Liquid Metal Liner for Mag
 Abstract
 
 
-General Fusion’s liquid metal–piston compression approach represents one of the most visible Magnetized Target Fusion (MTF) efforts. However, its reliance on a mechanically rotating liquid metal (LM) liner introduces scaling challenges tied to high-speed rotation, vacuum-sealed rotary joints, and precise piston timing. This paper proposes a stationary, tangential-pumping configuration that achieves equivalent azimuthal flow and liner shaping without mechanical rotation, rotary vacuum joints, or moving seals. Sequentially actuated pistons drive tangential flow within a stationary vessel, generating a rotating liquid metal shell for plasma compression. This design eliminates major mechanical failure modes and simplifies scaling to reactor-relevant dimensions.
+General Fusion’s liquid metal–piston compression approach represents one of the most visible Magnetized Target Fusion (MTF) efforts. However, its reliance on a mechanically rotating liquid metal (LM) liner introduces scaling challenges tied to high-speed rotation and vacuum-sealed rotary joints. This paper proposes a stationary, tangential-pumping configuration that achieves equivalent azimuthal flow and liner shaping without mechanical rotation, rotary vacuum joints, or moving seals. Sequentially actuated pistons drive tangential flow within a stationary vessel, generating a rotating liquid metal shell for plasma compression. This design eliminates major mechanical failure modes and simplifies scaling to reactor-relevant dimensions.
 
 
 
