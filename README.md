@@ -121,3 +121,5 @@ Acknowledgments
 
 
 This concept builds upon insights from the challenges observed in General Fusion’s LM26 program and broader MTF research, seeking to preserve the physics advantages of rotating liquid metal liners while eliminating the mechanical liabilities of rotation.
+
+License: Apache 2.0
