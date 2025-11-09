@@ -42,9 +42,9 @@ In the stationary configuration, the fusion vessel and all external components r
 Key Elements
 
 
-Stationary spherical or spheroidal vessel with inner walls lined by a liquid metal (e.g., Pb–Li or Ga–In–Sn).
-Tangential piston ports arranged symmetrically around the equator or distributed hemispherically.
-Sequential actuation of pistons to create controlled azimuthal flow patterns, effectively generating a rotating liquid metal shell while the vessel remains stationary.
+Stationary spherical, spheroidal or cylindrical vessel with inner walls lined by a liquid metal (e.g., Pb–Li or Ga–In–Sn).
+Tangential piston ports arranged symmetrically around the equator or distributed hemispherically. 
+Sequential actuation of pistons to create controlled azimuthal flow patterns, effectively generating a rotating liquid metal shell while the vessel remains stationary. A cylindrical vessel design allows to realize any rotational symetric wall shape by adjusting related piston pump speed.
 Pulsed compression sequence, where all pistons fire inward quasi-simultaneously after establishing rotation, compressing the central magnetized plasma target.
 
 
