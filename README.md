@@ -73,6 +73,22 @@ The azimuthal motion provides centrifugal stabilization and magnetic flux trappi
 Pulsed inward compression proceeds while maintaining flow symmetry, minimizing Rayleigh–Taylor instabilities at the plasma–metal interface.
 After compression and energy release, the liner re-expands, and the tangential flow is re-established for the next cycle.
 
+Vortex-Assisted Liner Rotation and Compression (Conceptual Extension)
+
+An alternative or complementary mechanism for sustaining azimuthal liquid metal motion involves the deliberate formation of a controlled hydrodynamic vortex, analogous to the well-known bathtub drain vortex. In this configuration, tangential momentum is continuously injected into the liquid metal liner while a coordinated radial or axial flow component induces inward transport of the liquid metal toward the compression region.
+
+Conservation of angular momentum naturally amplifies azimuthal velocity as the effective liner radius decreases, producing a self-organizing rotating shell with a narrowed central cavity. This vortex-driven geometry can inherently reduce the enclosed plasma volume while maintaining rotational stabilization, without requiring mechanical rotation of the vessel or liner.
+
+Periodic or pulsed inward “lid” compression—implemented via synchronized piston actuation—may then be applied to rapidly intensify the vortex and compress the magnetized plasma target. In this regime, liner shaping and compression arise from coupled hydrodynamic effects rather than purely geometric piston convergence, potentially reducing sensitivity to mechanical tolerances.
+
+Such a vortex-assisted mode may offer additional benefits, including:
+	•	Continuous regeneration of angular momentum to offset viscous and wall losses
+	•	Hydrodynamically determined liner shaping governed by flow conditions rather than fixed structures
+	•	Reduced reliance on precise global synchronization, as angular momentum amplification occurs naturally during inward flow
+
+The stability of vortex-assisted liquid metal liners under fusion-relevant magnetic fields and compression rates would require dedicated CFD–MHD modeling and experimental validation. Nevertheless, this approach represents a promising extension of the stationary tangential-pumping concept, leveraging well-understood fluid dynamical principles to enhance liner rotation and plasma compression.
+
+
 
 
 
