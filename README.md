@@ -124,7 +124,7 @@ Integration of full tangential-piston array for continuous operation cycles.
 
 
 
-6.0 Conclusion
+6. Conclusion
 
 
 The stationary tangential-pumping liquid metal liner concept offers a promising alternative to mechanically rotating MTF systems. By removing rotary vacuum interfaces and leveraging hydrodynamic rotation through piston sequencing, this design addresses the most challenging scalability barriers identified in systems like LM26. While significant modeling and experimental work remain to validate stability and plasma coupling, the architecture presents a clear pathway toward a mechanically simpler, more maintainable, and potentially more scalable fusion compression platform.
